@@ -1,27 +1,23 @@
-Here is the full Markdown code for your `README.md` file. It prominently features the Streamlit Cloud URL you provided and details the functionality of your **Multi-Graph Data Analysis Web App**.
 
-You can copy and paste the code below directly into a new file named `README.md` in the root of your GitHub repository.
+📊 Multi-Graph Data Analysis Web App
 
-````markdown
-# 📊 Multi-Graph Data Analysis Web App
-
-## 🚀 Live Application
+🚀 Live Application
 This application is deployed on Streamlit Cloud and is currently running live. Click the badge below to launch the app:
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://analyzerapp-e3uzkbtn3yxkmsnp5auaf3.streamlit.app/)
 
-**Live URL:** [https://analyzerapp-e3uzkbtn3yxkmsnp5auaf3.streamlit.app/](https://analyzerapp-e3uzkbtn3yxkmsnp5auaf3.streamlit.app/)
+Live URL: [https://analyzerapp-e3uzkbtn3yxkmsnp5auaf3.streamlit.app/](https://analyzerapp-e3uzkbtn3yxkmsnp5auaf3.streamlit.app/)
 
 ---
 
-## 💡 Project Overview
+ 💡 Project Overview
 This web application provides an intuitive, no-code interface for quickly analyzing and visualizing data from uploaded CSV files.
 
-Built using **Streamlit**, it allows users to seamlessly upload their data, view descriptive statistics using **Pandas** and **NumPy**, and generate various plots using **Matplotlib**. It's the perfect tool for initial data exploration and quality checks.
+Built using Streamlit, it allows users to seamlessly upload their data, view descriptive statistics using Pandas and NumPy, and generate various plots using Matplotlib. It's the perfect tool for initial data exploration and quality checks.
 
 ---
 
-## ✨ Key Features
+ ✨ Key Features
 
 * **CSV Upload:** Easily upload and load data from any standard CSV file.
 * **Data Preview:** View the first few rows of the uploaded dataset.
